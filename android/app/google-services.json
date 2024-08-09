@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "146623002057",
+    "project_id": "weather-forecasting-firebase",
+    "storage_bucket": "weather-forecasting-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146623002057:android:6cbc2e4f3f226ed2d4e418",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnAppjvqpqUNGMqioFf8eq2d-QQO2ZmiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146623002057:android:6c41e8658f08a5c6d4e418",
+        "android_client_info": {
+          "package_name": "com.example.weather_forecasting_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnAppjvqpqUNGMqioFf8eq2d-QQO2ZmiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
